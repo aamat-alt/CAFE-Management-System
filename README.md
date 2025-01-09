@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# Cafe-Management-System
 My 3rd semester project
 <br>
 Author:
